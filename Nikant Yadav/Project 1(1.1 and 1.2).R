@@ -1,4 +1,4 @@
-setwd("C:\\Users\\Nikant Yadav\\Desktop\\Internship Preparation\\ECO project\\Project 1")
+setwd("C:\\Users\\Nikant Yadav\\Desktop\\Internship Preparation\\ECO project\\Project 1\\Nikant Yadav")
 tempdata <- read.csv("NH.Ts+dSST.csv", skip = 1, na.strings = "***")
 
 

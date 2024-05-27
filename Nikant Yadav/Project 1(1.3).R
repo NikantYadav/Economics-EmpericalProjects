@@ -1,4 +1,4 @@
-setwd("C:\\Users\\Nikant Yadav\\Desktop\\Internship Preparation\\ECO project\\Project 1")
+setwd("C:\\Users\\Nikant Yadav\\Desktop\\Internship Preparation\\ECO project\\Project 1\\Nikant Yadav")
 co2data <- read.csv("co2data3.csv", na.strings = "***")
 tempdata <- read.csv("NH.Ts+dSST.csv", skip = 1, na.strings = "***")
 
